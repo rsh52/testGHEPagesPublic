@@ -3,6 +3,8 @@
 
 # testGHEPagesPublic - UPDATE TEST
 
+> This is a test repo to compare differences in GitHub Pages deployments between public GitHub and GitHub Enterprise
+
 <!-- badges: start -->
 <!-- badges: end -->
 
